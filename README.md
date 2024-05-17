@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
+#
 ![Kassio GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiokennedy&show_icons=true&theme=dark)
-<br/>
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiokennedy)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+#
 <div style="display: inline_block"><br/>
   <h3>Minhas tecnologias:</h1>
   <img align="center" alt="Javacsript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
