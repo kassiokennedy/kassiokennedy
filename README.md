@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
 </div>
 
-###
+#
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
