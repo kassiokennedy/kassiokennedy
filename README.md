@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Javacsript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img align="center" alt="Google Dialogflow CX" src="https://github.com/kassiokennedy/kassio_git_status_files/blob/main/df-cx.png?raw=true"/>
+  <img align="center" alt="Google Dialogflow CX" src="https://github.com/kassiokennedy/kassio_git_status_files/blob/main/badges/df-cx.png?raw=true"/>
   <img align="center" alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
 </div>
 #
