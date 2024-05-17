@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ![Kassio GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiokennedy&show_icons=true&theme=dark)
 
-## Minhas tecnologias:
 <div style="display: inline_block"><br/>
+  <h1>Minhas tecnologias:</h1>
   <img align="center" alt="Javacsript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
