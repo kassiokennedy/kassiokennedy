@@ -29,10 +29,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Google Cloud" src="ttps://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Google Dialogflow CX" src="[ttps://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)"/>
+  <img align="center" alt="Google Dialogflow CX" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
 </div>
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Twilio" src="[ttps://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)"/>
+  <img align="center" alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
 </div>
 
 
