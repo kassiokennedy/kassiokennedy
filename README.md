@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Kassio GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiokennedy&show_icons=true&theme=dark)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiokennedy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiokennedy&layout=compact)
 #
 <div style="display: inline_block"><br/>
   <h3>Minhas tecnologias:</h1>
