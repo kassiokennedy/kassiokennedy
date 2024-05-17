@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
+###
 ![Kassio GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiokennedy&show_icons=true&theme=dark)
-#
+####
 <div style="display: inline_block"><br/>
   <h3>Minhas tecnologias:</h1>
   <img align="center" alt="Javacsript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,7 +26,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Google Dialogflow CX" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
   <img align="center" alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/>
 </div>
-
-
-#
+###
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
