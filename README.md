@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 
 ![Kassio GitHub stats](https://github-readme-stats.vercel.app/api?username=kassiokennedy&show_icons=true&theme=dark)
 
+## Minhas tecnologias:
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
