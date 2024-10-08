@@ -5,7 +5,7 @@ Formado em Engenharia Eletrônica pela Universidade de Fortaleza (2020), atualme
 Meu portifolio conta com projetos e provas de conceito para empresas como: Prevent Sênior, Alares Internet, Sinqia, Warren,  Estadão, Pipo Saude, Beep Saude, Climatempo, Wepink, Autopass e Tramontina
 
 
-#### OBS: o cachorro da foto era meu, chamava Fred, teve que partir por conta da idade, desde então em recuso a remover a foto. 
+
 <!--
 **kassiokennedy/kassiokennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,3 +40,5 @@ Meu portifolio conta com projetos e provas de conceito para empresas como: Preve
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
+
+#### OBS: o cachorro da foto era meu, chamava Fred, teve que partir por conta da idade, desde então em recuso a remover a foto. 
