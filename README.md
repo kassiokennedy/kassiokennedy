@@ -41,4 +41,4 @@ Meu portifolio conta com projetos e provas de conceito para empresas como: Preve
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
 
-#### OBS: o cachorro da foto era meu, chamava Fred, teve que partir por conta da idade, desde então em recuso a remover a foto. 
+#### OBS: o cachorro da foto era meu, chamava Fred, teve que partir por conta da idade, desde então me recuso a remover a foto. 
