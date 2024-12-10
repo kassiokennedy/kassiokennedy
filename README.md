@@ -36,9 +36,9 @@ Meu portifolio conta com projetos e provas de conceito para empresas como: Preve
   <h3>Certificados:<br></h3>
   <img align="center" alt="Conversational AI on Vertex AI and Dialogflow CX" src="https://cdn.qwiklabs.com/fjdlMJrxQS7Z6zYqLcUUlaEaVijarKcq9ee9V9wo%2FRE%3D"  width="150" height="150"/>
 
-</div>
-<br/>
   <h3>Minhas redes:</h3>
+<br/>
+</div>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiovieira/)
 
 #### OBS: o cachorro da foto era meu, chamava Fred, teve que partir por conta da idade, desde então me recuso a remover a foto. 
