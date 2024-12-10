@@ -31,9 +31,9 @@ Meu portifolio conta com projetos e provas de conceito para empresas como: Preve
 <div style="display: inline_block"><br/>
   <h3>Minhas tecnologias:</h3>
   <img align="center" alt="Javacsript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
-
   <img align="center" alt="Google Dialogflow CX" src="https://github.com/kassiokennedy/kassio_git_status_files/blob/main/badges/df-cx.png?raw=true"/>
-
+  
+  <h3>Certificados:</h3>
   <img align="center" alt="Conversational AI on Vertex AI and Dialogflow CX" src="https://cdn.qwiklabs.com/fjdlMJrxQS7Z6zYqLcUUlaEaVijarKcq9ee9V9wo%2FRE%3D"  width="150" height="150"/>
 
 </div>
