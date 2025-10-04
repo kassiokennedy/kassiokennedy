@@ -1,9 +1,8 @@
 ### E ai?! 👋
 
-Formado em Engenharia Eletrônica pela Universidade de Fortaleza (2020), atualmente estudo Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Trabalho com desenvolvimento de RES API’s, aplcação de Inteligência Artificial e Machine Learning em arquitetura RAG com as tecnologias do Google Cloud, desenvolvimento REST API NodeJS, Chatbot. Desenvolvimento em eletrônica de pequenos projetos.
+Sou desenvolvedor Backend em JavaScript e Python, especializado em REST APIs, chatbots e inteligência artificial aplicada à análise de dados e automações, principalmente utilizando ferramentas no-code e low-code como n8n, Bubble, Typebot, entre outras. Minha expertise é mapear processos e transformá-los em fluxos automatizados que geram economia de tempo em tarefas repetitivas e na análise de dados.
 
-Meu portifolio conta com projetos e provas de conceito para empresas como: Prevent Sênior, Alares Internet, Sinqia, Warren,  Estadão, Pipo Saude, Beep Saude, Climatempo, Wepink, Autopass e Tramontina
-
+Atualmente, curso Análise e Desenvolvimento de Sistemas, com o objetivo de aprimorar minhas habilidades em programação, além de estudar React e TypeScript para expandir minha atuação também no desenvolvimento Frontend.
 
 
 <p>
