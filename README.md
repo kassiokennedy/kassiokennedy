@@ -6,7 +6,14 @@ Meu portifolio conta com projetos e provas de conceito para empresas como: Preve
 
 
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60"/>
+  <img src="https://github.com/kassiokennedy/kassiokennedy/blob/main/files/n8n-color.svg" width="60"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/>
-<img src="https://github.com/kassiokennedy/kassiokennedy/blob/main/files/n8n-color.svg" width="60" height="60"/>
+<p>
+  <a href="https://www.linkedin.com/in/kassiovieira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+</p>
